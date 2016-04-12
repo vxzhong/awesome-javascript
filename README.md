@@ -591,7 +591,7 @@ Besides libraries, there're [Collection on Codepen](http://codepen.io/collection
 * [jQuery.adaptive-slider](https://github.com/creative-punch/jQuery.adaptive-slider/) - A jQuery plugin for a slider with adaptive colored figcaption and navigation.
 * [slidr](https://github.com/bchanx/slidr) - add some slide effects.
 * [Flickity](https://github.com/metafizzy/flickity) - Touch, responsive, flickable galleries.
-* [Glide.js](https://github.com/jedrzejchalubek/Glide.js) - Responsive and touch-friendly jQuery slider. It's simple, lightweight and fast. 
+* [Glide.js](https://github.com/jedrzejchalubek/Glide.js) - Responsive and touch-friendly jQuery slider. It's simple, lightweight and fast.
 * [jQuery.adaptive-slider](https://github.com/creative-punch/jQuery.adaptive-slider/) - A jQuery plugin for a slider with adaptive colored figcaption and navigation.
 
 ## Range Sliders
@@ -692,7 +692,7 @@ Besides libraries, there're [Collection on Codepen](http://codepen.io/collection
 * [ScrollMenu](https://github.com/s-yadav/ScrollMenu) - A new interface to replace old boring scrollbar.
 * [Clusterize.js](https://github.com/NeXTs/Clusterize.js) - Tiny vanilla JS plugin to display large data sets easily.
 * [jump.js](https://github.com/callmecavs/jump.js) - A small, modern, dependency-free smooth scrolling library. <http://callmecavs.github.io/jump.js/>
-
+* [waypoints](https://github.com/imakewebthings/waypoints) - Waypoints is a library that makes it easy to execute a function whenever you scroll to an element. <http://imakewebthings.com/waypoints>
 
 ## Menu
 
@@ -762,7 +762,7 @@ Besides libraries, there're [Collection on Codepen](http://codepen.io/collection
  * [FitVids.js](https://github.com/davatron5000/FitVids.js) - A lightweight, easy-to-use jQuery plugin for fluid width video embeds.
  * [Ion.Sound](https://github.com/IonDen/ion.sound) - Simple sounds on any web page
  * [photobooth-js](https://github.com/WolframHempel/photobooth-js) - A widget that allows users to take their avatar pictures on your site
- * [clappr](https://github.com/clappr/clappr) - An extensible media player for the web http://clappr.io 
+ * [clappr](https://github.com/clappr/clappr) - An extensible media player for the web http://clappr.io
 
 ## Typography
 
@@ -835,7 +835,7 @@ http://www.listjs.com
 ## Podcasts
 * [JavaScript Air](http://javascriptair.com) - The live video broadcast podcast all about JavaScript and the Web platform.
 * [Web of Tomorrow](http://www.weboftomorrowpodcast.com/) - Podcast about JavaScript for beginners.
-* [Javascript Jabber](https://devchat.tv/js-jabber/) - A weekly podcast about JavaScript, including Node.js, Front-End Technologies, Careers, Teams and more. 
+* [Javascript Jabber](https://devchat.tv/js-jabber/) - A weekly podcast about JavaScript, including Node.js, Front-End Technologies, Careers, Teams and more.
 
 # Worth Reading
 * [braziljs/js-the-right-way](https://github.com/braziljs/js-the-right-way/)
