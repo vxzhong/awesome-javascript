@@ -693,6 +693,8 @@ Besides libraries, there're [Collection on Codepen](http://codepen.io/collection
 * [Clusterize.js](https://github.com/NeXTs/Clusterize.js) - Tiny vanilla JS plugin to display large data sets easily.
 * [jump.js](https://github.com/callmecavs/jump.js) - A small, modern, dependency-free smooth scrolling library. <http://callmecavs.github.io/jump.js/>
 * [waypoints](https://github.com/imakewebthings/waypoints) - Waypoints is a library that makes it easy to execute a function whenever you scroll to an element. <http://imakewebthings.com/waypoints>
+* [xscroll](https://github.com/huxiaoqi567/xscroll) - A Javascript Scrolling Framework For Mobile Web <http://xscroll.github.io/>
+
 
 ## Menu
 
