@@ -107,6 +107,7 @@ A collection of awesome browser-side [JavaScript](https://developer.mozilla.org/
 * [browserify](https://github.com/substack/node-browserify) - Browserify lets you require('modules') in the browser by bundling up all of your dependencies.
 * [webpack](https://github.com/webpack/webpack) - Packs CommonJs/AMD modules for the browser.
 * [Rollup](https://github.com/rollup/rollup) - Next-generation ES6 module bundler.
+* [Brunch](https://github.com/brunch/brunch) - Fast front-end web app build tool with simple declarative config.
 
 
 ## Testing Frameworks
@@ -342,7 +343,7 @@ There're also some great commercial libraries, like [amchart](https://www.amchar
 * [Kefir](https://github.com/pozadi/kefir) - FRP library for JavaScript inspired by Bacon.js and RxJS with focus on high performance and low memory consumption.
 * [Highland] (http://highlandjs.org/) - Re-thinking the JavaScript utility belt, Highland manages synchronous and asynchronous code easily, using nothing more than standard JavaScript and Node-like Streams.
 * [Most.js](https://github.com/cujojs/most) - high performance FRP library.
-
+* [MobX](https://github.com/mobxjs/mobx) - TFRP library for simple, scalable state management.
 
 ## Data Structure
 *Data structure libraries to build a more sophisticated application.*
@@ -794,6 +795,8 @@ Besides libraries, there're [Collection on Codepen](http://codepen.io/collection
 * [textillate](https://github.com/jschr/textillate) - A simple plugin for CSS3 text animations
 * [move.js](https://github.com/visionmedia/move.js) - CSS3 backed JavaScript animation framework
 * [animatable](https://github.com/LeaVerou/animatable) - One property, two values, endless possiblities
+* [shuffle-images](https://github.com/peachananr/shuffle-images) -  The Simplest Way to shuffle through images in a Creative Way http://www.thepetedesign.com/demos/shuffle-images_demo.html 
+* [smoothState.js](https://github.com/miguel-perez/smoothState.js) - Unobtrusive page transitions with jQuery. http://smoothstate.com/ 
 
 ## Image Processing
 
